@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mihancheggg
 - 👀 I’m interested in developing my programming skills.
-- 🌱 I’m currently learning Javascipt.
+- 🌱 I’m currently learning Javascipt, Typescript and React.
 - 💞️ I’m looking to collaborate on improve programming skills
 - 📫 How to reach me: e-mail - schutow.mihail@yandex.ru
 
