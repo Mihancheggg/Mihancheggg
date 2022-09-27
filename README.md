@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Mihancheggg
-- 👀 I’m interested in developing my programming skills.
-- 🌱 I’m currently learning Javascipt, Typescript and React.
-- 💞️ I’m looking to collaborate on improve programming skills
-- 📫 How to reach me: e-mail - schutow.mihail@yandex.ru
+## 👋 Hi, I’m @Mihancheggg an I am a front-end engineer.
 
-<!---
-Mihancheggg/Mihancheggg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihancheggg&layout=compact&theme=dark)](https://github.com/Mihancheggg/github-readme-stats)
+
+[![Mihancheggg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihancheggg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
