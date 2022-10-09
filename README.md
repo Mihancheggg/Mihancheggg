@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="YARN" **alt="NPM" width="40" height="40"/>
   <hr>
   <a href="https://www.codewars.com/users/Mihancheggg" target="_blank">
-    <img  src="https://www.codewars.com/users/rumata-sl/badges/large" width="300"/>
+    <img  src="https://www.codewars.com/users/Mihancheggg/badges/large" width="300"/>
   </a>
 </div>
 
