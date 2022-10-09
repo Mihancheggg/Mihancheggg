@@ -17,9 +17,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webstorm/webstorm-plain.svg" title="YARN" **alt="NPM" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="YARN" **alt="NPM" width="40" height="40"/>
   <hr>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Mihancheggg}/count.svg" /></p>
+  <a href="https://www.codewars.com/users/Mihancheggg" target="_blank">
 </div>
-<a href="https://www.codewars.com/users/Mihancheggg" target="_blank">
 
 <br/>
 
