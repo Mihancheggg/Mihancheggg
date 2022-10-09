@@ -16,14 +16,18 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original-wordmark.svg" title="YARN" **alt="NPM" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webstorm/webstorm-plain.svg" title="YARN" **alt="NPM" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="YARN" **alt="NPM" width="40" height="40"/>
+  
   <hr>
+  
   <a href="https://www.codewars.com/users/Mihancheggg" target="_blank">
     <img  src="https://www.codewars.com/users/Mihancheggg/badges/large" width="300"/>
   </a>
-</div>
-
-<br/>
+  
+  <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihancheggg&layout=compact&theme=dark)](https://github.com/Mihancheggg/github-readme-stats)
 
 [![Mihancheggg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihancheggg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
